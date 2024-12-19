@@ -1,0 +1,24 @@
+{
+    "login": {
+      "welcome": "Welcome!",
+      "email": "Email",
+      "password": "Password",
+      "login": "Login",
+      "no_account": "Don't have an account?",
+      "register_here": "Register Here",
+      "error_login_failed": "Login failed",
+      "error_occurred": "An error occurred. Please try again."
+    },
+  
+    "navbar": {
+     
+      "sign": "Sign in",
+      "signup": "SignUp"
+    },
+    "home":{
+
+      "hometitle": "Welcome to FoodHub",
+      "dihomeunder": " Explore a wide range of delicious cuisines, track your orders in real-time, and enjoy personalized recommendations . Whether you're craving comfort food or exploring new tastes, FoodHub is here to deliver happiness to your doorstep .",
+      "homenext": "Contact Us"
+    }
+  }

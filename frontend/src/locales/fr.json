@@ -1,0 +1,23 @@
+{
+    "login": {
+      "welcome": "Bienvenue !",
+      "email": "E-mail",
+      "password": "Mot de passe",
+      "login": "Connexion",
+      "no_account": "Vous n'avez pas de compte ?",
+      "register_here": "Inscrivez-vous ici",
+      "error_login_failed": "Échec de la connexion",
+      "error_occurred": "Une erreur s'est produite. Veuillez réessayer."
+    },
+    "navbar": {
+     
+      "sign": "Connexion",
+      "signup": "Inscrivez-vous"
+    },
+    "home": {
+
+      "hometitle": "Bienvenue chez FoodHub",
+      "dihomeunder": " Découvrez un large éventail de cuisines délicieuses, suivez vos commandes en temps réel et profitez de recommandations personnalisées. Que vous ayez envie de plats réconfortants ou que vous souhaitiez explorer de nouvelles saveurs, FoodHub est là pour livrer du bonheur directement à votre porte. Bon appétit !.",
+      "homenext": "Nous contacter"
+    }
+  }
